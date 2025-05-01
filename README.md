@@ -13,8 +13,7 @@ This **Bug Tracking App** is a Python-based tool developed by **Mrutunjaya Senap
 1. **Main App Interface**:  
    Enter the number of bugs you’ve found each day.
    
-   ![Main Interface](![image](https://github.com/user-attachments/assets/35199d4f-5f75-4fd0-baa1-9d147deb5d9e)
-)
+   ![Main Interface](![image](https://github.com/user-attachments/assets/35199d4f-5f75-4fd0-baa1-9d147deb5d9e))
 
 2. **Bug Count Progress**:  
    Visualize your progress with colorful graphs showing the bugs found each day.
